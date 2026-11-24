@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(90deg, #eaf1ff, #ffffff);
+  font-family: "Inter";
+}
+
+footer {
+  color: #666666;
+  text-align: center;
+}
+
+select:invalid {
+  color: #6c757d;
+}
